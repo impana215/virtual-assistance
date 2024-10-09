@@ -1,7 +1,8 @@
 # virtual-assistance
 
 # Virtual Assistance Project Workflow
-## OverviewThis document outlines the workflow for managing tasks and services in the Virtual Assistance project. 
+## Overview
+This document outlines the workflow for managing tasks and services in the Virtual Assistance project. 
 ## Workflow Stages
 ### 1. Define Services Offered- Identify the services that will be provided (e.g., administrative tasks, customer support, social media management). 
 ### 2. Client Onboarding- 
